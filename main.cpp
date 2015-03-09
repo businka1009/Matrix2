@@ -1,5 +1,5 @@
 #include "Matrix.hpp"
-#include "Rmax.hpp"
+#include "Rmaxmin.hpp"
 #include <iostream>
 
 /*template<typename Type>
