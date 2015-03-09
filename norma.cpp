@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
-const int MAX = 100;
+const int MAX = 1000;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int n, m;
