@@ -12,7 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	double a[MAX][MAX];
 	double sum = 0;
 	cin >> m >> n;
-	for (i = 0; i<m; i++)
+	for (i = 1; i<m-1; i++)
 	{
 		for (j = 0; j<n; j++)
 		{
